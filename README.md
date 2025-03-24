@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end & Mobile`**
 
-Sou Brenda Lopes Levandoski, estudante do último ano de Ciência da Computação na UNICENTRO. Apaixonada por tecnologia e desenvolvimento, possuo sólida experiência como desenvolvedora front-end e mobile, com competências em Flutter, React e Angular. Utilizo tecnologias como Dart, Firebase, SQLite, TypeScript e JavaScript, que aprendi tanto na faculdade quanto através de cursos online. Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e aprender com desafios complexos. Acredito na importância de um código limpo, na colaboração em equipe e na contínua atualização profissional.
+Sou Brenda Lopes Levandoski, estudante do último ano de Ciência da Computação na UNICENTRO. Apaixonada por tecnologia e desenvolvimento, possuo sólida experiência como desenvolvedora front-end e mobile, com competências em Flutter, React e Angular. Utilizo tecnologias como Dart, Firebase, SQLite, TypeScript, JavaScript, Python e Ionic, que aprendi tanto na faculdade quanto através de cursos online. Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e aprender com desafios complexos. Acredito na importância de um código limpo, na colaboração em equipe e na contínua atualização profissional.
 
 <p align="left">
     <a href="https://github.com/lopesbrendinha?tab=repositories&sort=stargazers">
@@ -26,7 +26,6 @@ Sou Brenda Lopes Levandoski, estudante do último ano de Ciência da Computaçã
             src="https://custom-icon-badges.demolab.com/github/followers/lopesbrendinha?color=white&labelColor=white&style=for-the-badge&logo=lik&label=Seguidores&logoColor=white"
         />
     </a>
-    
 </p>
 
 ---
@@ -105,7 +104,14 @@ Sou Brenda Lopes Levandoski, estudante do último ano de Ciência da Computaçã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Ionic" 
+    title="Ionic"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" 
+/>
 <img 
     align="left" 
     alt="Bootstrap"
@@ -130,7 +136,14 @@ Sou Brenda Lopes Levandoski, estudante do último ano de Ciência da Computaçã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -139,7 +152,6 @@ Sou Brenda Lopes Levandoski, estudante do último ano de Ciência da Computaçã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 
 <br/>
 <br/>
